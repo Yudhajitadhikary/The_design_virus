@@ -1,0 +1,109 @@
+
+module.exports={
+    testimony:[
+        {
+            id:0,
+            image:"dummy-man.png",
+            name:"Yudha",
+            comment:"This is a comment"
+        },
+        {
+            id:1,
+            image:"dummy-man.png",
+            name:"Yudha",
+            comment:"This is a comment"
+        },
+        {
+            id:2,
+            image:"dummy-man.png",
+            name:"Yudha",
+            comment:"This is a comment"
+        }
+    ],
+    services:[
+        {
+            id:0,
+            service:"Advertising"
+        },
+        {
+            id:1,
+            service:"Copywriting"
+        },
+        {
+            id:2,
+            service:"Digital Content"
+        },
+        {
+            id:3,
+            service:"Photography"
+        },
+        {
+            id:4,
+            service:"Art Direction"
+        },
+        {
+            id:5,
+            service:"Commercial"
+        },
+        {
+            id:6,
+            service:"Illustration"
+        },
+        {
+            id:7,
+            service:"Strategy"
+        },
+        {
+            id:8,
+            service:"Branding"
+        },
+        {
+            id:9,
+            service:"Design"
+        },
+        {
+            id:10,
+            service:"Motion Graphics"
+        }
+    ],
+    images:[
+        {
+            id:0,
+            image:"dummy-man.png"
+        },
+        {
+            id:1,
+            image:"dummy-man.png"    
+        },
+        {
+            id:2,
+            image:"dummy-man.png"
+        },
+        {
+            id:3,
+            image:"dummy-man.png"
+        } ,
+        {
+            id:4,
+            image:"dummy-man.png"
+        } 
+        ,
+        {
+            id:5,
+            image:"dummy-man.png"
+        }, 
+        {
+            id:6,
+            image:"dummy-man.png"
+        } ,
+        {
+            id:7,
+            image:"dummy-man.png"
+        } 
+        ,
+        {
+            id:8,
+            image:"dummy-man.png"
+        }       
+    ]
+}
