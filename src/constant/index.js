@@ -27,7 +27,7 @@ module.exports={
         },
         {
             id:1,
-            service:"Copywriting"
+            service:"Copywritings"
         },
         {
             id:2,
